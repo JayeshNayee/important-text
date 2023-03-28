@@ -1,0 +1,154 @@
+L.J. Institute of Engineering & Technology Semester: VI (2023)
+Analog and Digital Communication (3163206) Page 6
+21. Calculate the percentage power saving when the carrier and one of the sidebands are 
+suppressed in an AM wave modulated to a depth of (a) 100 percent, and (b) 50 percent.
+[LJIET]
+07
+22. The total power content of an AM signal is 1000 W. Determine the power being transmitted 
+at the carrier frequency when the percentage modulation is 100%. [LJIET]
+07
+23. The antenna current of an AM broadcast transmitter, modulated to a depth of 40 percent by 
+an audio sine wave, is 11 A. It increases to 12 A as a result of simultaneous modulation by 
+another audio sine wave. What is the modulation index due to this second wave? [LJIET]
+07
+24. What is SSB? List the methods of SSB generation and explain phase shift method in 
+detail.(May’2017)(May’18) [LJIET]
+04/07
+25. A 350W carrier is amplitude modulated to a depth of 100%. Calculate the total power in 
+case of SSB technique. How much power saving(in W) is achieved for SSB compared to 
+AM .If the depth of modulation is changed to 75% then how much power(in W) is required
+for transmitting the SSB Wave?(May’2017) [LJIET]
+07
+26. Derive power relation for DSB, SSB and VSB. (May’2017) (May’2018) [LJIET] 04/07
+27. Write a short note on AM with waveforms. (May’18) [LJIET] 04
+28. A 400W carrier is amplitude modulated to a depth of 100%. Calculate the total power in 
+case of VSB technique, if 20% of the other sideband is transmitted along with wanted 
+sideband. How much power saving (in W) is achieved for VSB compared to AM and 
+DSBSC. How much more power (in W) is required compared to SSB? If the depth of 
+modulation is changed to 70% then how much power (in W) is required for transmitting the 
+VSB wave. (May’18) [LJIET]
+07
+29. An AM modulating signal 5*Sin (2π x 200t) is used to modulate a carrier signal 25*Sin (2π 
+x 25000t). Find modulation index, percentage modulation, frequencies of sideband 
+components and their amplitude. Draw the spectrum of AM wave.(May’2019) (Dec’2019)
+[LJIET]
+07
+30. What do you mean by VSB Modulation and Why it is used?(May’2019) (Dec’2019)
+[LJIET]
+03
+31. An AM modulating signal 10*Sin (2π x 500t) is used to modulate a carrier signal 50*Sin 
+(2π x 100000t). Find modulation index, bandwidth, frequencies of sideband components 
+and their amplitude. Draw the frequency spectrum of AM wave.(Jun’2022)[LJIET]Describe power relation in AM wave. [LJIET] 07
+6. A career is modulated to a depth of 75 percent. If total power in modulated wave is 512.5 
+W, calculate carrier power. [LJIET]
+07
+7. Derive the expression of AM wave. Also draw the frequency spectrum for AM wave. 
+[LJIET]
+07
+8. An AM transmitter supplies 10 kW of carrier power to a 50 Ω load. It operates at a carrier 
+frequency of 1.2 MHz and is 80% modulated by a 3 kHz sine wave. (i) Sketch the signal in 
+frequency domain with frequency and power scales. Show the power in dBW. (ii) 
+Calculated the total average power in the signal in watts and in dBW. (iii) Calculate the 
+RMS voltage of the signal. (iv) Calculate the peak voltage of the signal. [LJIET]
+07
+9. Derive equation for AM wave. Draw amplitude spectrum for m=1. Also draw the frequency 
+spectrum of AM wave. [LJIET]
+07
+10. Discuss frequency spectrum of the AM wave. [LJIET] 07
+11. An AM broadcast station transmits 2KW if carrier power and uses an index of modulation 
+of 0.7 Calculate: (1) Power of each sideband (2) Total sideband power (3) Total Transmitter 
+power (4) Percentage of total power in the sidebands. [LJIET]
+07
+12. For an AM transmitter modulated to a depth of 50 % by an audio sine wave, the antenna 
+current is 10A. It increases to 13 A as a result of simultaneous modulation by another audio 
+sine wave. What is the modulation index due to this second wave? Observe modulation 
+index and answer whether it is under-modulated, fully modulated or over-modulated. 
+[LJIET]
+07
+13. Explain Generation of AM signals(May’2017)[LJIET] 07
+14. State application of amplitude modulation. [LJIET] 04
+15. Derive the expression for AM wave. AM modulating signal 8sin (2π x 900t) is used to 
+modulate a carrier signal 18 sin (2π x 15000t). Find modulation index, percentage 
+modulation, frequencies of sideband components and their amplitude. Draw the spectrum of 
+AM wave. [LJIET]
+07
+16. List different types of Amplitude Modulated Signal and explain them in detail. [LJIET] 07
+17. With related to Amplitude modulation discuss following parameters (i) Modulation index 
+(ii) Modulation depth (iii) Bandwidth requirement (iv) Power distribution in sidebands and 
+carrier. [LJIET]
+07
+18. A broadcast AM transmitter radiates 50 kW of carrier power. What will be the radiated 
+power at 85 % modulation? [LJIET]
+07
+19. The antenna current of an AM transmitter is 8 A for an unmodulated carrier but it increases 
+to 8.93 A when the carrier is modulated by a single sine wave. Find the percentage 
+modulation. Determine the antenna current when the percentage modulation changes to 
+0.8.(May’2017) (May’2018) [LJIET]
+07/
+03
+20. An AM signal is represented by the expression V(t) = 5[ 1 + 0.6cos (6280t)] sin (2π × 104
+t) 
+volts Find the (a) Minimum amplitude of AM wave, (b) Maximum amplitude of AM wave , 
+(c) Various frequency components and their amplitude in given signal. [LJIET] An Frequency modulated signal with carrier frequency wc = 2π ×105
+is describe by the 
+equation 10 cos (wct + 5sin 3000t+10sin 2000πt) Find: (1) The power of the modulated 
+signal (2) The frequency deviation Δf (3) The deviation ratio (4) Estimate the bandwidth. 
+[LJIET]
+07
+14. A 20 MHz carrier is modulated by a 400 Hz audio sine wave. If the carrier voltage is 4V 
+and the maximum deviation is 10KHz. Write the equation of this modulated wave for (a) 
+FM and (b) PM. If the modulating frequency is now changed to 2 KHz, all else remaining 
+constant, write a new equation for(c) FM and (d) PM. [LJIET]
+07
+15. Explain Generation of FM [LJIET] 07
+16. Differentiate between FM and PM system. [LJIET] 03
+17. Explain the indirect method of FM generation. [LJIET]
+18. Explain Armstrong method of FM generation with neat 
+diagram.(May’2017)(May’18)[LJIET]
+Explain Armstrong method of FM generation with neat diagram.(Jun’2022)[LJIET]
+07
+19. In FM system, the modulating frequency is 500Hz & modulating voltage is 3.6V with 
+modulating index 65. Calculate maximum frequency deviation. What will be the 
+modulation index when modulating frequency is 235Hz and modulation voltage is 5V? 
+[LJIET]
+07
+20. A FM voltage is represented by v=12sin(6 x 108
+t + 5cos 1250t) Find Carrier Frequency, 
+Modulating Frequency, Modulation Index, Maximum Deviation, Power dissipation across 
+10ῼ. [LJIET]
+07
+21. What is FM ? Give relation between FM and PM. Also give difference between AM and 
+PM. [LJIET]
+07
+22. A 107.6 MHz carrier is frequency modulated by a 7 KHz sine wave. The resultant FM 
+signal has a frequency deviation of 50 KHz. i) Find the carrier swing of the FM signal. ii) 
+Determine the highest and lowest frequencies attained by the modulated signal. iii) What is 
+the modulation index of the FM wave? [LJIET]
+07
+23. An PM signal is given by s(t) =2 cos (2π * 106
+t + 5 cos (1000 πt )). Find the maximum 
+frequency deviation of this signal. If modulating frequency is doubled what effect will it 
+have maximum frequency deviation? [LJIET]
+07
+24. An angle-modulation signal with carrier frequency ωc = 2π × 105 is described by the 
+equation ØEM = 10cos (ωct + 5 sin 3000t + 10 sin 2000πt) (a) Find the Power of the 
+modulated signal. (b) Find the frequency deviation Δf . (c) Find the Deviation ratio β. (d) 
+Estimate the bandwidth of ØEM.(t). [LJIET]
+07
+25. List the various angle modulation detectors methods. Discuss any one in detail. [LJIET] 07
+26. Explain the importance of pre-emphasis and de-emphasis circuits. Why it is not useful in 
+phase modulation but useful in frequency modulation? [LJIET]
+07
+27. Write a short note on Pre-Emphasis and De-Emphasis. (May’18) [LJIET] 04
+28. What are the different methods for Generation of FM Signals? Explain any one method in 
+detail.(May’2019) (Dec’2019) [LJIET]
+07
+29. Explain the importance of Pre-emphasis and De-emphasis circuits in FM. Sketch a typical 
+Pre-emphasis and De-emphasis circuit.(May’2019) (Dec’2019) [LJIET]
+Explain the importance of Pre-emphasis and De-emphasis circuits in FM. Sketch a typical 
+Pre-emphasis and De-emphasis circuit. (Jun’2022)[LJIET]
+07
+30. For FM System, the modulating frequency is 10 KHz and maximum deviation is 75 KHz 
+Calculate bandwidth of system using Carson’s Rule.(May’2019) (Dec’2019) [LJIET]
+03
+31. For FM System, the modulating frequency is 4 KHz and maximum frequency deviation is
